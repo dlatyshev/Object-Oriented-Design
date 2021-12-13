@@ -1,12 +1,14 @@
-package com.dmytroqa.classes;
+package com.dmytroqa.classes.inheritance;
 
-public class Animal {
+import com.dmytroqa.classes.Gender;
+
+public abstract class Animal {
 
     int age;
     Gender gender;
-    int weight;
+    double weight;
 
-    public Animal(int age, Gender gender, int weight) {
+    public Animal(int age, Gender gender, double weight) {
         this.age = age;
         this.gender = gender;
         this.weight = weight;
@@ -19,4 +21,6 @@ public class Animal {
     public void sleep() {
         System.out.println("The animal is sleeping...");
     }
+
+    public abstract void move();
 }
