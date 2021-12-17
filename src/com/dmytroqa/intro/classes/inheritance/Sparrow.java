@@ -1,7 +1,7 @@
-package com.dmytroqa.classes.inheritance;
+package com.dmytroqa.intro.classes.inheritance;
 
-import com.dmytroqa.classes.Gender;
-import com.dmytroqa.interfaces.Flyable;
+import com.dmytroqa.intro.classes.Gender;
+import com.dmytroqa.intro.classes.interfaces.Flyable;
 
 public class Sparrow extends Bird implements Flyable {
 

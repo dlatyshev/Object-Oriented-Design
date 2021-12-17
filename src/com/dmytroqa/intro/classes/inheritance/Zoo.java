@@ -1,9 +1,6 @@
-package com.dmytroqa.classes.inheritance;
+package com.dmytroqa.intro.classes.inheritance;
 
-import com.dmytroqa.classes.Gender;
-import com.dmytroqa.classes.inheritance.Animal;
-import com.dmytroqa.classes.inheritance.Bird;
-import com.dmytroqa.classes.inheritance.Fish;
+import com.dmytroqa.intro.classes.Gender;
 
 public class Zoo {
 

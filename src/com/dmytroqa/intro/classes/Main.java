@@ -1,4 +1,4 @@
-package com.dmytroqa;
+package com.dmytroqa.intro.classes;
 
 public class Main {
 

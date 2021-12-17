@@ -1,4 +1,4 @@
-package com.dmytroqa.classes;
+package com.dmytroqa.intro.classes;
 
 public class Human {
 
