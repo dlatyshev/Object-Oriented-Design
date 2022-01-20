@@ -1,4 +1,4 @@
-package com.dmytroqa.lesson1;
+package com.dmytroqa.java;
 
 public class Vehicle {
 

@@ -1,9 +1,9 @@
-package com.dmytroqa.lesson1;
+package com.dmytroqa.java;
 
 public class App {
 
     public static void main(String[] args) {
-        var vehicle = new Vehicle();
+        Vehicle vehicle = new Vehicle();
         vehicle.accelerate();
     }
 }
